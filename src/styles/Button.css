@@ -1,0 +1,19 @@
+button{
+    width: 258px;
+    height: 65px;
+    background-color: #F9B5AC;
+    border-radius: 5px;
+    border: 1px solid #707070;
+    font-size: 25px;
+    color: white;
+    margin-right: 300px;
+}
+.focus{
+font-size: 130px;
+}
+.time{
+font-size: 170px;
+}
+.button-container{
+    margin-left: 80px;
+}
